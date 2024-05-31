@@ -4,5 +4,5 @@
 # (کانفیگ رایگان وایرگارد)
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/shaycom/wow-config-generator/main/endip/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Shaycom/wow-config-generator/main/endip/Install.sh)
 ```
